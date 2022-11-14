@@ -1,0 +1,6 @@
+[submodule "extlib/networkit"]
+	path = extlib/networkit
+	url = https://github.com/networkit/networkit
+[submodule "extlib/stxxl"]
+	path = extlib/stxxl
+	url = https://github.com/bingmann/stxxl
